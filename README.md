@@ -20,12 +20,19 @@ Este é um programa em Java que simula o funcionamento de um Autômato Finito De
 **Exemplo 1:**
 
 **Digite os estados do AFD, separados por vírgula:**
+
 q0,q1,q2
+
 **Digite o alfabeto do AFD, separados por vírgula e composto por até 2 símbolos:**
+
 0,1
+
 **Selecione o estado inicial:**
+
 q0
+
 **Selecione os estados de aceitação, separados por vírgula:**
+
 q2
 **Digite as funções de transição no seguinte formato: estado_atual/simbolo/proximo_estado**
 **Digite 'fim' para encerrar.**
