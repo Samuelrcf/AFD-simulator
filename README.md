@@ -9,7 +9,7 @@ Este é um programa em Java que simula o funcionamento de um Autômato Finito De
 
 3. Selecione o estado inicial: Escolha o estado inicial do AFD.
 
-4. Selecione os estados de aceitação: Escolha os estados de aceitação do AFD, separados por vírgula.
+4. Selecione o(s) estado(s) de aceitação: Escolha os estados de aceitação do AFD, separados por vírgula.
 
 5. Digite as funções de transição: Insira as funções de transição no formato estado_atual/simbolo/proximo_estado. Digite "fim" para encerrar a entrada das funções de transição.
 
